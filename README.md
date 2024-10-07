@@ -1,5 +1,5 @@
 # React + Vite
-# Note
+# Note :
 Untuk Menjalankan Aplikasi:
 - download zip atau clone
 - extract file

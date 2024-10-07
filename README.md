@@ -1,4 +1,10 @@
 # React + Vite
+# Note
+Untuk Menjalankan Aplikasi:
+- download zip atau clone
+- extract file
+- pada terminal di directory extract file: npm install
+- pada terminal di directory extract file: npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
